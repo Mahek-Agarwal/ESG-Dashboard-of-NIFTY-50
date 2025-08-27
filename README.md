@@ -27,7 +27,7 @@ Ideal for risk analysts, sustainability consultants, and financial professionals
 - **Step 4**: Added visuals for ESG Risk Score, Controversy Level, and ESG Risk Level—displaying company-wise risk using bar charts and pie/donut charts.
 - **Step 5**: Modeled “ESG Risk Management” into a donut chart showing proportion of companies with strong vs average controls.
 - **Step 6**: Created comparison line chart for “Predicted ESG Score vs Current ESG Score” to flag possible improvement or deterioration in future ESG performance.
-- **Step 7**: Incorporated DAX measures for custom aggregations (see below).
+- **Step 7**: Incorporated DAX measures for custom aggregations.
 
 ## DAX Logic & Calculations
 
